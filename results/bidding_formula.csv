@@ -1,0 +1,7 @@
+bidders,expected_price_above_best_cost_share_of_range
+1,
+2,0.667
+3,0.500
+5,0.333
+10,0.182
+20,0.095

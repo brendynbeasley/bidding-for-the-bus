@@ -1,0 +1,121 @@
+agency_name,state,mode,direction,switch_year,cost_per_hour_before,cost_per_hour_after,hours_after,change_pct
+Milwaukee County,WI,Bus,outsourced,2018,132.68,129.30,1301949.50,-2.54
+City of Charlotte North Carolina,NC,Bus,outsourced,2019,146.97,156.36,760643.00,6.39
+City of Tucson,AZ,Bus,outsourced,2019,110.37,109.78,686149.00,-0.53
+New Orleans Regional Transit Authority,LA,Bus,insourced,2021,185.26,164.05,471716.00,-11.45
+City of Raleigh,NC,Bus,outsourced,2020,151.44,121.04,308428.50,-20.08
+City of Tucson,AZ,Demand response,outsourced,2019,71.10,82.32,245902.00,15.79
+Southwest Georgia RC,GA,Demand response,outsourced,2020,47.45,54.15,126881.00,14.11
+"Escambia County Board of County Commissioners, FL",FL,Bus,insourced,2018,142.86,114.38,108339.00,-19.94
+Valley Regional Transit,ID,Bus,outsourced,2018,131.55,130.73,104953.50,-0.63
+New Orleans Regional Transit Authority,LA,Demand response,insourced,2021,166.67,183.28,100038.00,9.97
+Connecticut Department of Transportation- CTTransit Waterbury- NET,CT,Bus,insourced,2022,176.96,174.04,99706.50,-1.65
+City of Asheville,NC,Bus,outsourced,2019,94.66,113.03,86314.00,19.41
+Metropolitan Tulsa Transit Authority,OK,Demand response,insourced,2024,127.36,105.74,66796.50,-16.97
+Central Florida Regional Planning Council,FL,Demand response,insourced,2020,52.66,55.19,64779.00,4.81
+Southwest Ohio Regional Transit Authority,OH,Demand response,insourced,2020,107.50,147.40,59214.50,37.11
+Martha's Vineyard Transit Authority,MA,Bus,outsourced,2021,103.65,107.43,55524.50,3.65
+Anne Arundel County,MD,Demand response,outsourced,2018,65.84,67.64,53351.50,2.74
+Fresno County Rural Transit Agency,CA,Demand response,outsourced,2017,93.83,89.50,50613.50,-4.62
+City of Charlotte North Carolina,NC,Commuter bus,outsourced,2019,302.33,341.19,47661.50,12.85
+"Licking County, Ohio",OH,Demand response,insourced,2019,73.38,82.31,47265.00,12.17
+City of Sioux Falls,SD,Bus,outsourced,2024,158.10,155.81,47181.50,-1.45
+Chautauqua County,NY,Bus,insourced,2019,63.93,64.03,45484.50,0.16
+County of Hawaii,HI,Commuter bus,outsourced,2021,255.28,232.66,45031.50,-8.86
+Connecticut Department of Transportation- CTTransit Waterbury- NET,CT,Demand response,insourced,2022,132.05,119.19,43264.50,-9.74
+City of Sioux Falls,SD,Demand response,outsourced,2024,119.16,114.21,41496.50,-4.15
+Lake Transit Authority,CA,Bus,outsourced,2017,89.29,89.58,36691.00,0.32
+City of Sandusky,OH,Bus,outsourced,2023,59.80,73.66,35507.50,23.18
+Tulare County Area Transit,CA,Bus,outsourced,2017,129.06,117.14,33110.00,-9.23
+Tahoe Transportation District,NV,Bus,insourced,2017,100.83,127.96,32442.00,26.91
+City of Radford,VA,Bus,outsourced,2018,63.26,58.30,31317.00,-7.83
+"St Johns County, Florida",FL,Demand response,insourced,2018,72.49,60.26,29640.00,-16.87
+City of Laguna Beach,CA,Bus,outsourced,2022,125.52,127.93,29357.00,1.92
+"St Johns County, Florida",FL,Bus,insourced,2018,53.54,76.64,29295.50,43.14
+Thunderbay Transportation Authority,MI,Demand response,insourced,2018,106.78,77.08,26641.00,-27.82
+Nantucket Regional Transit Authority,MA,Bus,outsourced,2021,125.26,122.09,26119.00,-2.52
+City of Jacksonville,NC,Bus,insourced,2023,70.74,92.30,25373.50,30.48
+Lower Chattahoochee Regional Transit Authority,GA,Demand response,outsourced,2020,39.37,49.09,24294.00,24.69
+Warren County,NJ,Demand response,outsourced,2017,60.85,76.04,22654.00,24.96
+Gunnison Valley Rural Transportation Authority,CO,Commuter bus,outsourced,2022,148.17,153.84,22592.00,3.83
+City of Grand Forks,ND,Demand response,insourced,2020,63.05,71.61,21809.00,13.57
+Fresno County Rural Transit Agency,CA,Bus,outsourced,2017,93.85,90.36,19513.50,-3.71
+Municipality of Camuy,PR,Bus,outsourced,2023,78.40,87.04,19409.50,11.02
+"Human Resource Development Council District IX, Inc.",MT,Bus,outsourced,2019,65.61,100.66,18800.00,53.42
+Southern Teton Area Rapid Transit,WY,Demand response,outsourced,2023,59.32,74.26,18529.50,25.19
+Chautauqua County,NY,Demand response,insourced,2019,50.66,51.53,18307.50,1.73
+Big Sky Transportation District,MT,Bus,outsourced,2019,86.81,115.82,17488.50,33.41
+Regional Transportation Authority of Pima County,AZ,Bus,outsourced,2017,74.82,94.03,17014.50,25.68
+Gloucester County,NJ,Demand response,outsourced,2023,112.03,93.47,16499.50,-16.56
+Ashtabula County Transportation System,OH,Demand response,outsourced,2019,61.18,77.98,16396.00,27.47
+City of Sandusky,OH,Demand response,outsourced,2023,60.93,73.60,14859.50,20.80
+Duluth Transit Authority,MN,Demand response,insourced,2021,69.62,65.78,14676.50,-5.52
+City of Bowling Green,KY,Bus,outsourced,2021,101.75,87.16,14443.00,-14.34
+City of Fort Dodge,IA,Bus,outsourced,2023,77.47,64.77,14221.50,-16.39
+Dooly County,GA,Demand response,outsourced,2020,40.15,48.35,14044.50,20.41
+Tuolumne County Transit Agency,CA,Demand response,outsourced,2021,136.85,146.81,12328.50,7.28
+Franklin Regional Transit Authority,MA,Demand response,outsourced,2021,87.95,142.26,12181.00,61.76
+City of Dinuba,CA,Bus,outsourced,2019,87.33,88.33,11958.00,1.15
+City of Eureka,CA,Bus,outsourced,2020,93.96,127.09,11871.00,35.27
+Warren County,NJ,Bus,outsourced,2017,59.80,57.35,11856.00,-4.10
+Franklin Regional Transit Authority,MA,Bus,outsourced,2021,155.04,185.74,11639.00,19.81
+City of Corning,NY,Bus,outsourced,2021,102.99,74.55,11556.50,-27.61
+City of Conroe,TX,Bus,insourced,2024,146.87,119.63,11471.00,-18.55
+Sullivan County,NY,Bus,outsourced,2022,43.34,85.19,11413.50,96.57
+Salem County,NJ,Demand response,outsourced,2018,66.14,84.06,11070.50,27.09
+Lowndes County,GA,Demand response,outsourced,2020,30.84,50.09,10875.00,62.40
+Ben Hill,GA,Demand response,outsourced,2020,44.75,53.58,10271.00,19.74
+Crisp County,GA,Demand response,outsourced,2020,46.09,52.04,10168.00,12.92
+Birmingham Regional Paratransit Consortium,AL,Demand response,insourced,2022,92.09,72.06,9993.50,-21.75
+City of Glenwood Springs,CO,Bus,outsourced,2021,160.46,142.01,9814.50,-11.50
+Tahoe Transportation District,NV,Commuter bus,insourced,2017,202.39,229.55,9789.00,13.42
+Thurston Regional Planning Council,WA,Bus,outsourced,2018,122.46,102.91,8577.00,-15.96
+Yates County,NY,Bus,outsourced,2024,106.48,104.37,7768.50,-1.98
+City of Show Low,AZ,Bus,outsourced,2017,83.48,84.25,7472.00,0.92
+San Joaquin Regional Transit District,CA,Commuter bus,insourced,2022,192.59,272.65,7113.00,41.57
+Tahoe Transportation District,NV,Demand response,insourced,2017,103.63,137.91,7104.50,33.08
+Glacier Valley Transit,AK,Bus,outsourced,2017,60.15,63.02,7075.00,4.78
+Ozaukee County,WI,Commuter bus,outsourced,2019,230.11,262.82,6978.00,14.22
+County of Kenosha,WI,Bus,outsourced,2017,61.03,59.98,6963.50,-1.72
+City of Arcata,CA,Bus,outsourced,2023,239.93,192.16,6943.00,-19.91
+Pierce County Transit,GA,Demand response,outsourced,2020,40.16,54.38,6935.00,35.42
+Greene County Commission,GA,Demand response,outsourced,2020,43.56,53.39,6792.00,22.57
+Steuben County,NY,Bus,outsourced,2022,106.10,68.99,6757.50,-34.98
+City of Americus,GA,Demand response,outsourced,2020,38.15,61.12,6734.00,60.24
+Clay County,GA,Demand response,outsourced,2020,40.82,53.99,6566.00,32.29
+County of Glenn,CA,Bus,outsourced,2017,131.52,133.74,6553.00,1.69
+Cook County Transit,GA,Demand response,outsourced,2020,36.61,65.55,6545.50,79.03
+City of Fort Dodge,IA,Demand response,outsourced,2023,55.04,64.53,6370.00,17.25
+City of Guadalupe,CA,Bus,outsourced,2017,95.87,91.92,6094.50,-4.12
+Plumas County Transportation Commission,CA,Bus,outsourced,2017,163.80,163.15,6044.00,-0.40
+Macon County,GA,Demand response,outsourced,2020,43.70,56.49,5260.00,29.26
+Wilcox County,GA,Demand response,outsourced,2020,25.69,48.96,4838.00,90.54
+Lake Transit Authority,CA,Demand response,outsourced,2017,85.43,87.05,4771.50,1.89
+Tuolumne County Transit Agency,CA,Bus,outsourced,2021,128.03,154.42,4682.00,20.62
+Columbia County,OR,Demand response,insourced,2023,150.58,211.53,4619.00,40.48
+Brooks County Transit,GA,Demand response,outsourced,2020,38.81,58.58,4618.50,50.95
+Peach County,GA,Demand response,outsourced,2020,43.40,52.44,4519.00,20.85
+Tulare County Area Transit,CA,Demand response,outsourced,2017,77.15,97.18,4498.00,25.96
+Elko County,NV,Bus,outsourced,2019,99.91,86.52,4052.00,-13.39
+Ware County,GA,Demand response,outsourced,2020,37.53,66.82,3989.50,78.05
+City of Bisbee,AZ,Bus,outsourced,2017,96.87,105.42,3981.00,8.82
+Bleckley County,GA,Demand response,outsourced,2020,26.82,39.91,3942.50,48.79
+Martha's Vineyard Transit Authority,MA,Demand response,outsourced,2021,121.64,170.75,3886.00,40.38
+River Bend Transit,IA,Bus,insourced,2022,65.02,84.18,3684.00,29.47
+Lac du Flambeau Band of Lake Superior Chippewa Indians,WI,Demand response,insourced,2020,29.49,124.45,3579.00,321.93
+City of Rio Vista,CA,Bus,outsourced,2017,163.99,171.84,3418.50,4.79
+Modoc Transportation Agency,CA,Demand response,outsourced,2017,41.17,47.82,3365.50,16.14
+City of Bowling Green,KY,Demand response,outsourced,2021,63.91,135.78,3333.50,112.46
+City of Conroe,TX,Demand response,insourced,2024,128.08,117.14,3267.50,-8.54
+Sierra County,CA,Demand response,outsourced,2022,52.90,57.86,3203.50,9.37
+Jones County,GA,Demand response,outsourced,2020,50.65,55.01,3177.00,8.62
+City of Show Low,AZ,Commuter bus,outsourced,2017,85.55,92.74,3111.00,8.40
+Montgomery County,NY,Commuter bus,outsourced,2018,193.20,180.06,3086.50,-6.80
+County of Sedgwick,KS,Demand response,insourced,2017,75.69,111.78,3003.00,47.69
+Montgomery County,NY,Bus,outsourced,2018,147.15,133.22,2990.00,-9.46
+Telfair County,GA,Demand response,outsourced,2020,43.98,48.84,2976.00,11.05
+Modoc Transportation Agency,CA,Bus,outsourced,2017,116.49,122.58,2966.00,5.23
+Twiggs County,GA,Demand response,outsourced,2021,47.97,45.14,2935.00,-5.91
+City of Chowchilla,CA,Demand response,insourced,2018,231.46,220.31,2422.00,-4.82
+City of Dinuba,CA,Demand response,outsourced,2019,53.57,55.15,2362.50,2.95
+City of Tehachapi,CA,Demand response,outsourced,2017,125.20,142.60,2178.00,13.89

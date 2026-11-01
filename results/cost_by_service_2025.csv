@@ -1,0 +1,10 @@
+mode,service,agency_modes,median_cost_per_hour,hours,dollars,pooled_cost_per_hour
+Commuter bus,Competitively bid,51,193.66,1039150.00,237090979.00,228.16
+Commuter bus,In-house,67,167.54,2052548.00,502976842.00,245.05
+Commuter bus,Negotiated or other,4,135.10,73990.00,26552907.00,358.87
+Demand response,Competitively bid,305,106.18,37325933.00,4127745881.00,110.59
+Demand response,In-house,1239,73.72,30061366.00,2725529282.00,90.67
+Demand response,Negotiated or other,32,78.63,1774933.00,206936881.00,116.59
+Bus,Competitively bid,255,118.28,28433295.00,4284926343.00,150.70
+Bus,In-house,742,113.03,102473874.00,18960192215.00,185.02
+Bus,Negotiated or other,19,123.16,3367668.00,498899769.00,148.14

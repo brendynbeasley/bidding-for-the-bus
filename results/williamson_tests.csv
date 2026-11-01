@@ -1,0 +1,13 @@
+group,contrast,coef_log,se,p,pct,switchers,n_obs,n_clusters,stayer_agency_modes
+"Outsourced, all modes",after minus before (years 0..+5 vs -4..-2),0.0927,0.0313,0.0030,9.7186,91,883,74,3119
+"Outsourced, all modes",first two years after vs year -1,0.0782,0.0215,0.0003,8.1383,91,883,74,3119
+"Outsourced, all modes",years +3..+5 minus years 0..+1 (drift),0.0651,0.0276,0.0181,6.7299,91,883,74,3119
+"Outsourced, bus",after minus before (years 0..+5 vs -4..-2),0.0015,0.0480,0.9750,0.1504,44,435,44,3119
+"Outsourced, bus",first two years after vs year -1,0.0022,0.0290,0.9396,0.2200,44,435,44,3119
+"Outsourced, bus",years +3..+5 minus years 0..+1 (drift),0.0109,0.0280,0.6967,1.0963,44,435,44,3119
+"Outsourced, demand response",after minus before (years 0..+5 vs -4..-2),0.1847,0.0439,0.0000,20.2877,41,403,41,3119
+"Outsourced, demand response",first two years after vs year -1,0.1651,0.0323,0.0000,17.9506,41,403,41,3119
+"Outsourced, demand response",years +3..+5 minus years 0..+1 (drift),0.1349,0.0511,0.0083,14.4427,41,403,41,3119
+"Insourced, all modes",after minus before (years 0..+5 vs -4..-2),0.0705,0.0799,0.3779,7.3011,32,311,25,3119
+"Insourced, all modes",first two years after vs year -1,0.0600,0.0607,0.3232,6.1830,32,311,25,3119
+"Insourced, all modes",years +3..+5 minus years 0..+1 (drift),0.0120,0.0715,0.8668,1.2067,32,311,25,3119

@@ -1,0 +1,98 @@
+am,agency_name,state,mode,cph_DO,cph_PT,vrh_DO,vrh_PT,contractor,contract_type,contract_vs_inhouse_pct,opex_DO,opex_PT,contract_hours_at_inhouse_cost_minus_actual
+90154_MB,Los Angeles County Metropolitan Transportation Authority,CA,Bus,246.35,150.22,6382913.00,416806.00,MV Transportation,Competitively bid,-39.02,1572456883.00,62611204.00,40070669.24
+20080_MB,New Jersey Transit Corporation,NJ,Bus,218.42,161.76,5664469.00,357745.00,Academy Lines,Competitively bid,-25.94,1237227783.00,57868177.00,20270136.27
+30019_MB,Southeastern Pennsylvania Transportation Authority,PA,Bus,220.20,133.01,3569039.00,7825.00,Krapfs Cps,Competitively bid,-39.60,785910150.00,1040769.00,682313.02
+00001_MB,King County,WA,Bus,270.98,198.97,3042075.00,112614.00,Hopelink,Competitively bid,-26.57,824350761.00,22407241.00,8109244.16
+60008_MB,"Metropolitan Transit Authority of Harris County, Texas",TX,Bus,195.15,143.35,2445280.00,621030.00,Transdev (incl. First Transit),Competitively bid,-26.54,477185607.00,89021663.00,32169602.42
+50113_MB,"Pace, the Suburban Bus Division of the Regional Transportation Authority",IL,Bus,155.38,145.08,1648043.00,59933.00,MV Transportation,Competitively bid,-6.63,256079093.00,8694984.00,617629.98
+80001_MB,Utah Transit Authority,UT,Bus,146.23,112.73,1405689.00,19380.00,MV Transportation,Competitively bid,-22.91,205551476.00,2184628.00,649275.95
+90013_MB,Santa Clara Valley Transportation Authority,CA,Bus,251.30,143.40,1336635.00,17968.00,El Paseo Limo,Competitively bid,-42.93,335893594.00,2576691.00,1938630.01
+40029_MB,Broward County Board of County Commissioners,FL,Bus,165.11,67.18,1189727.00,16477.00,Limousines Of South Florida,Competitively bid,-59.31,196433039.00,1106910.00,1613568.89
+90036_MB,Orange County Transportation Authority,CA,Bus,191.16,173.12,912719.00,593101.00,Keolis,Competitively bid,-9.44,174479920.00,102680568.00,10699579.70
+90026_MB,San Diego Metropolitan Transit System,CA,Bus,163.42,97.97,793760.00,1102639.00,Transdev (incl. First Transit),Competitively bid,-40.05,129719946.00,108020577.00,72177809.84
+40027_MB,Pinellas Suncoast Transit Authority,FL,Bus,142.20,117.35,605732.00,40355.00,Jolley Trolley,Competitively bid,-17.48,86137847.00,4735484.00,1003180.65
+90029_MB,Omnitrans,CA,Bus,146.56,113.59,528207.00,38360.00,Transdev (incl. First Transit),Competitively bid,-22.50,77415641.00,4357153.00,1265006.47
+60007_MB,Fort Worth Transportation Authority,TX,Bus,156.43,136.57,459996.00,12183.00,Echo Afc Transportation,Competitively bid,-12.70,71955978.00,1663811.00,241944.01
+30075_MB,Delaware Transit Corporation,DE,Bus,174.39,141.21,427227.00,75457.00,Transdev (incl. First Transit),Competitively bid,-19.02,74503027.00,10655357.00,2503396.80
+30075_DR,Delaware Transit Corporation,DE,Demand response,157.00,174.08,395102.00,24579.00,Transdev (incl. First Transit),Competitively bid,10.88,62032767.00,4278815.00,-419802.95
+60006_MB,City of El Paso,TX,Bus,170.61,63.74,353097.00,40006.00,Lulac Project Amistad,Competitively bid,-62.64,60241584.00,2549905.00,4275485.22
+90031_MB,Riverside Transit Agency,CA,Bus,180.31,110.81,342826.00,137424.00,Empire Transportation,Competitively bid,-38.54,61813396.00,15227504.00,9550792.08
+30010_MB,Lehigh and Northampton Transportation Authority,PA,Bus,158.48,118.15,278360.00,2301.00,Transdev (incl. First Transit),Competitively bid,-25.45,44115780.00,271867.00,92806.12
+88239_MB,High Valley Transit District,UT,Bus,84.05,80.64,275777.00,20231.00,,,-4.06,23179328.00,1631360.00,69075.44
+70006_DR,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,MO,Demand response,130.64,61.47,249240.00,92692.00,Via (incl. River North Transit),Competitively bid,-52.95,32561314.00,5697702.00,6411804.17
+60011_DR,VIA Metropolitan Transit,TX,Demand response,120.30,58.53,228457.00,559696.00,MV Transportation,Competitively bid,-51.35,27483102.00,32758025.00,34572729.83
+60008_CB,"Metropolitan Transit Authority of Harris County, Texas",TX,Commuter bus,292.00,199.68,222807.00,48674.00,Transdev (incl. First Transit),Competitively bid,-31.62,65058663.00,9719057.00,4493536.69
+00025_MB,Salem Area Mass Transit District,OR,Bus,198.27,109.85,218964.00,23756.00,MTM Transit,Competitively bid,-44.60,43414344.00,2609587.00,2100553.28
+30206_DR,Susquehanna Regional Transportation Authority,PA,Demand response,87.62,81.09,207921.00,182445.00,Central Pennsylvania Transportation Authority,Negotiated or other,-7.45,18217101.00,14794487.00,1190521.69
+60051_MB,Corpus Christi Regional Transportation Authority,TX,Bus,167.76,129.73,191264.00,34372.00,MV Transportation,Competitively bid,-22.67,32086110.00,4458959.00,1307226.86
+50032_DR,Mass Transportation Authority,MI,Demand response,170.92,50.09,190788.00,3066.00,Jewish Community Services,Negotiated or other,-70.69,32609010.00,153571.00,370462.09
+90019_DR,Sacramento Regional Transit District,CA,Demand response,196.63,113.25,182071.00,8528.00,Via (incl. River North Transit),Competitively bid,-42.40,35799771.00,965838.00,710982.84
+50031_DR,Suburban Mobility Authority for Regional Transportation,MI,Demand response,179.35,100.14,179606.00,30791.00,Lake Erie Transportation Commission,Competitively bid,-44.17,32212413.00,3083364.00,2439015.03
+50015_DR,The Greater Cleveland Regional Transit Authority,OH,Demand response,172.15,111.13,158983.00,204628.00,Provide A Ride,Competitively bid,-35.45,27369521.00,22740022.00,12487457.31
+40046_MB,Sarasota County,FL,Bus,143.08,79.00,151063.00,18065.00,Cpr Medical Transportation,Competitively bid,-44.78,21613745.00,1427143.00,1157555.46
+40032_MB,County of Volusia,FL,Bus,100.35,105.31,150641.00,21591.00,RATP Dev,Competitively bid,4.95,15116507.00,2273753.00,-107141.63
+90154_DR,Los Angeles County Metropolitan Transportation Authority,CA,Demand response,145.86,124.22,129753.00,64826.00,Via (incl. River North Transit),Competitively bid,-14.84,18925473.00,8052629.00,1402741.69
+40008_DR,City of Charlotte North Carolina,NC,Demand response,216.81,184.23,123539.00,7729.00,MV Transportation,Competitively bid,-15.03,26784322.00,1423885.00,251828.94
+40108_MB,Research Triangle Regional Public Transportation Authority,NC,Bus,225.94,164.63,120463.00,6499.00,City Of Raleigh,Negotiated or other,-27.14,27217266.00,1069912.00,398464.28
+00018_DR,Ben Franklin Transit,WA,Demand response,157.02,86.65,112428.00,59034.00,Via (incl. River North Transit),Competitively bid,-44.82,17653944.00,5115236.00,4154544.93
+80001_DR,Utah Transit Authority,UT,Demand response,168.39,109.45,110214.00,250918.00,Via (incl. River North Transit),Competitively bid,-35.00,18559165.00,27463172.00,14789432.60
+40031_MB,Lakeland Area Mass Transit District,FL,Bus,164.17,71.32,99185.00,31168.00,Transitions Commute Solutions,Competitively bid,-56.56,16283575.00,2223056.00,2893911.94
+50010_DR,METRO Regional Transit Authority,OH,Demand response,127.71,60.42,96994.00,30424.00,Don Brodies Thomas Limousine Service,Competitively bid,-52.69,12386843.00,1838140.00,2047227.25
+80011_MB,City of Fort Collins,CO,Bus,165.72,77.93,86702.00,6560.00,zTrip,Competitively bid,-52.97,14368594.00,511237.00,575911.82
+00002_DR,Spokane Transit Authority,WA,Demand response,181.98,109.35,84679.00,77767.00,Transdev (incl. First Transit),Competitively bid,-39.91,15409859.00,8503757.00,5648258.31
+30025_MB,County of Lackawanna Transit System,PA,Bus,119.82,64.63,81491.00,12509.00,L P Transportation,Competitively bid,-46.06,9764370.00,808495.00,690351.55
+60033_DR,Rock Region Metropolitan Transit Authority,AR,Demand response,57.89,60.20,72677.00,13409.00,zTrip,Competitively bid,3.99,4207208.00,807195.00,-30959.71
+60007_DR,Fort Worth Transportation Authority,TX,Demand response,103.14,50.68,64060.00,235035.00,Via (incl. River North Transit),Competitively bid,-50.86,6607334.00,11911789.00,12330401.86
+50036_DR,Capital Area Transportation Authority,MI,Demand response,124.55,121.19,63800.00,127857.00,Transdev (incl. First Transit),Competitively bid,-2.69,7946209.00,15495549.00,428878.02
+50148_DR,Blue Water Area Transportation Commission,MI,Demand response,127.44,48.77,61361.00,76296.00,St Clair County Council On Aging,Negotiated or other,-61.73,7819944.00,3721038.00,6002246.29
+40042_DR,Birmingham-Jefferson County Transit Authority,AL,Demand response,159.76,91.71,60996.00,7510.00,Via (incl. River North Transit),Competitively bid,-42.59,9744629.00,688749.00,511037.28
+90079_DR,SunLine Transit Agency,CA,Demand response,140.08,51.60,57207.00,23544.00,Yellow Cab Of The Desert,Competitively bid,-63.16,8013665.00,1214944.00,2083144.15
+90196_MB,County of Placer,CA,Bus,217.99,104.63,56972.00,5775.00,My Ride To Work,Competitively bid,-52.00,12419094.00,604227.00,654641.70
+50016_DR,Central Ohio Transit Authority,OH,Demand response,68.95,109.32,54776.00,176875.00,Transdev (incl. First Transit),Competitively bid,58.55,3776811.00,19336333.00,-7140783.02
+80188_MB,Southern Teton Area Rapid Transit,WY,Bus,114.20,150.22,54249.00,2309.00,,,31.54,6195472.00,346860.00,-83162.15
+40032_DR,County of Volusia,FL,Demand response,135.15,78.87,54240.00,81682.00,Via (incl. River North Transit),Competitively bid,-41.64,7330317.00,6442366.00,4596626.50
+40031_DR,Lakeland Area Mass Transit District,FL,Demand response,154.54,62.49,53297.00,4302.00,Transitions Commute Solutions,Competitively bid,-59.56,8236352.00,268822.00,395995.65
+30202_DR,South Central Transit Authority,PA,Demand response,98.89,76.49,47981.00,114475.00,Easton Coach,Negotiated or other,-22.65,4744603.00,8756356.00,2563508.71
+10066_DR,Green Mountain Transit Authority,VT,Demand response,131.52,87.40,41393.00,44311.00,Special Services Transportation Agency,Competitively bid,-33.54,5443850.00,3872998.00,1954616.27
+90035_DR,Gold Coast Transit District,CA,Demand response,108.12,124.05,39847.00,12031.00,MV Transportation,Competitively bid,14.74,4308069.00,1492421.00,-191686.24
+20018_DR,Central New York Regional Transportation Authority,NY,Demand response,114.74,98.28,35263.00,91119.00,Suburban Transportation,Competitively bid,-14.34,4046198.00,8955583.00,1499724.70
+10057_DR,Norwalk Transit District,CT,Demand response,146.08,123.18,33677.00,29498.00,Transportation Assoc Of Greenwich,Competitively bid,-15.68,4919456.00,3633441.00,675556.63
+60273_MB,University of Texas Rio Grande Valley,TX,Bus,94.20,134.26,32500.00,11986.00,All Valley Charters,Competitively bid,42.53,3061445.00,1609274.00,-480213.08
+50060_DR,Champaign-Urbana Mass Transit District,IL,Demand response,51.81,70.90,29677.00,10356.00,University Of Illinois Ada,Negotiated or other,36.85,1537590.00,734260.00,-197707.05
+00057_MB,Central Oregon Intergovernmental Council,OR,Bus,188.91,161.11,26666.00,27193.00,MTM Transit,Competitively bid,-14.72,5037543.00,4381139.00,755960.93
+30006_DR,Greater Richmond Transit Company,VA,Demand response,154.25,77.44,25893.00,150987.00,National Express,Competitively bid,-49.80,3993931.00,11691781.00,11597589.10
+60008_DR,"Metropolitan Transit Authority of Harris County, Texas",TX,Demand response,107.14,80.48,23519.00,1459372.00,MV Transportation,Competitively bid,-24.88,2519831.00,117451038.00,38906409.43
+60089_DR,City of Tyler,TX,Demand response,151.53,67.48,23403.00,2903.00,East Texas Council Of Governments,Negotiated or other,-55.47,3546293.00,195896.00,244000.11
+40103_DR,Southeast Alabama Regional Planning and Development Commission,AL,Demand response,56.88,45.44,23364.00,26708.00,Wiregrass Adult Care,Competitively bid,-20.11,1328968.00,1213632.00,305546.11
+50113_DR,"Pace, the Suburban Bus Division of the Regional Transportation Authority",IL,Demand response,68.93,123.01,21008.00,168453.00,Transdev (incl. First Transit),Competitively bid,78.46,1448063.00,20721344.00,-9110026.57
+50341_DR,South East Area Transit,OH,Demand response,158.49,42.88,20649.00,105656.00,,,-72.95,3272593.00,4530126.00,12214950.57
+30012_DR,Cambria County Transit Authority,PA,Demand response,100.47,62.22,20098.00,18259.00,Medicab,Negotiated or other,-38.07,2019158.00,1136009.00,698392.73
+50043_DR,City of Evansville,IN,Demand response,114.29,65.80,19665.00,13299.00,Via (incl. River North Transit),Competitively bid,-42.43,2247555.00,875049.00,644922.22
+10014_DR,Worcester Regional Transit Authority,MA,Demand response,155.79,72.12,18840.00,44973.00,South Central Massachusetts Elderbus,Negotiated or other,-53.71,2935149.00,3243401.00,3763098.79
+60095_DR,Golden Crescent Regional Planning Commission,TX,Demand response,110.90,40.61,17378.00,28213.00,Friends Of Elder Citizens Jackson Matagorda,Competitively bid,-63.38,1927256.00,1145766.00,1983113.82
+30206_MB,Susquehanna Regional Transportation Authority,PA,Bus,71.91,119.68,17263.00,219672.00,Cumberland Dauphin Harrisburg Transit Authority,Negotiated or other,66.43,1241368.00,26289281.00,-10492849.83
+00011_DR,Valley Regional Transit,ID,Demand response,52.69,196.83,16547.00,29569.00,Transdev (incl. First Transit),Competitively bid,273.54,871925.00,5820143.00,-4262038.79
+60041_DR,City of Arlington,TX,Demand response,71.60,59.71,15911.00,58459.00,Yellow Checker Cab,Competitively bid,-16.61,1139286.00,3490549.00,695329.97
+40038_DR,"Escambia County Board of County Commissioners, FL",FL,Demand response,57.31,78.99,15701.00,52262.00,Itl Solutions,Competitively bid,37.84,899752.00,4128198.00,-1133303.47
+66276_DR,McLennan County,TX,Demand response,102.58,38.27,14783.00,3115.00,,,-62.69,1516434.00,119210.00,200325.41
+50057_DR,Rock Island County Metropolitan Mass Transit District,IL,Demand response,80.26,100.42,14596.00,8034.00,Community Transportation Development,Competitively bid,25.12,1171491.00,806812.00,-161994.33
+10040_DR,Southeast Area Transit District,CT,Demand response,73.76,87.85,14177.00,5264.00,Eastern Connecticut Transportation Consortium,Competitively bid,19.10,1045729.00,462446.00,-74160.93
+60101_DR,Denton County Transportation Authority,TX,Demand response,165.04,77.79,13983.00,199102.00,Via (incl. River North Transit),Competitively bid,-52.87,2307739.00,15487567.00,17372008.94
+00057_DR,Central Oregon Intergovernmental Council,OR,Demand response,133.73,138.22,13622.00,15138.00,MTM Transit,Competitively bid,3.35,1821712.00,2092322.00,-67870.65
+40012_MB,City of Winston Salem,NC,Bus,178.33,144.27,12310.00,140427.00,RATP Dev,Competitively bid,-19.10,2195188.00,20259003.00,4782724.48
+00003_DR,Pierce County Transportation Benefit Area Authority,WA,Demand response,167.58,115.23,11661.00,195050.00,Transdev (incl. First Transit),Competitively bid,-31.24,1954193.00,22475513.00,10211678.89
+40194_MB,Municipality of Mayaguez,PR,Bus,50.42,67.99,10718.00,30528.00,Transporte Sonnell,Competitively bid,34.86,540355.00,2075557.00,-536467.86
+60068_DR,City of Grand Prairie,TX,Demand response,95.15,82.90,10473.00,45846.00,Via (incl. River North Transit),Competitively bid,-12.87,996495.00,3800679.00,561519.97
+90012_DR,San Joaquin Regional Transit District,CA,Demand response,216.23,127.89,9424.00,30445.00,Rydetrans,Competitively bid,-40.85,2037755.00,3893614.00,2689519.59
+30034_DR,Maryland Transit Administration,MD,Demand response,234.00,117.76,8539.00,1201304.00,Transdev (incl. First Transit),Competitively bid,-49.68,1998109.00,141460768.00,139641976.37
+40036_DR,City of Tallahassee,FL,Demand response,238.23,93.99,7831.00,9890.00,Big Bend Transit,Competitively bid,-60.55,1865615.00,929539.00,1426601.00
+50166_DR,"Clermont County, Ohio",OH,Demand response,142.36,26.58,6879.00,33469.00,Clermont Senior Services,Competitively bid,-81.33,979276.00,889517.00,3875040.12
+40012_DR,City of Winston Salem,NC,Demand response,98.44,147.46,5238.00,52093.00,RATP Dev,Competitively bid,49.80,515612.00,7681473.00,-2553604.36
+90196_DR,County of Placer,CA,Demand response,138.19,96.89,5096.00,48845.00,Tahoe Downtowner,Competitively bid,-29.89,704232.00,4732397.00,2017644.61
+40035_DR,Central Florida Regional Transportation Authority,FL,Demand response,120.00,91.65,4204.00,536025.00,Transdev (incl. First Transit),Competitively bid,-23.62,504480.00,49128163.00,15194837.00
+70005_DR,Kansas City Area Transportation Authority,MO,Demand response,134.78,57.92,4139.00,246010.00,Whc Iris On Demand,Competitively bid,-57.03,557845.00,14248096.00,18908571.90
+40082_DR,County of Douglas,GA,Demand response,97.29,101.58,4123.00,9272.00,Transitions Commute Solutions,Competitively bid,4.41,401130.00,941832.00,-39751.63
+90265_MB,City of El Monte,CA,Bus,234.99,110.16,3836.00,20308.00,Southland Transit,Competitively bid,-53.12,901434.00,2237070.00,2535172.35
+80003_MB,City of Fargo,ND,Bus,106.73,113.70,2639.00,104451.00,Laidlaw Transit Services,Competitively bid,6.53,281654.00,11875790.00,-727990.85
+90030_MB,North County Transit District,CA,Bus,134.32,155.28,2151.00,455378.00,MV Transportation,Competitively bid,15.60,288933.00,70709064.00,-9540430.03
+80159_DR,Mountain Express,CO,Demand response,49.61,74.52,2076.00,9960.00,,,50.19,103000.00,742189.00,-248027.15

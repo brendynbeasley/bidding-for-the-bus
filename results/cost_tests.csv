@@ -1,0 +1,12 @@
+test,term,coef_log,se,ci_low,ci_high,p,pct_effect,pct_ci_low,pct_ci_high,n_obs,n_clusters,n_agency_modes,note
+"Panel 2015-25, all three modes",pt,-0.2334,0.0290,-0.2902,-0.1767,0.0000,-20.8197,-25.1901,-16.1940,4676,289,371,agency-by-mode and year fixed effects; clustered by agency
+"Panel 2015-25, weighted by revenue hours",pt,-0.3696,0.0540,-0.4755,-0.2637,0.0000,-30.8986,-37.8413,-23.1804,4676,289,371,"same, each row weighted by its vehicle revenue hours"
+"Panel 2015-25, bus only",pt,-0.2703,0.0369,-0.3426,-0.1979,0.0000,-23.6814,-29.0093,-17.9536,1948,148,148,agency and year fixed effects
+"Panel 2015-25, commuter bus only",pt,-0.1766,0.0750,-0.3235,-0.0296,0.0185,-16.1870,-27.6400,-2.9213,209,18,18,agency and year fixed effects
+"Panel 2015-25, demand response only",pt,-0.2088,0.0385,-0.2843,-0.1334,0.0000,-18.8455,-24.7430,-12.4860,2519,205,205,agency and year fixed effects
+"2025, competitively bid contract",pt_comp,-0.3370,0.0714,-0.4770,-0.1970,0.0000,-28.6077,-37.9337,-17.8802,184,79,92,agency-by-mode fixed effects; 2025 only
+"2025, negotiated or other contract",pt_neg,-0.4074,0.2639,-0.9246,0.1098,0.1226,-33.4619,-60.3323,11.6099,184,79,92,10 negotiated agency-modes
+"2025 cross-section, competitively bid",pt_comp,-0.1128,0.0424,-0.1958,-0.0297,0.0078,-10.6664,-17.7860,-2.9304,2714,56,2622,"mode and state effects, log hours, log urbanized-area population, rural; clustered by state"
+"2025 cross-section, negotiated or other",pt_neg,-0.1304,0.0776,-0.2826,0.0217,0.0930,-12.2269,-24.6158,2.1981,2714,56,2622,same regression
+Competitively bid cost on log contractor groups in state,lfirms,0.0477,0.0315,-0.0139,0.1094,0.1292,4.8898,-1.3830,11.5617,611,50,611,"mode effects, log hours, log urbanized-area population, rural, buyer-supplied vehicles; clustered by state"
+"Same, mode effects only",lfirms,0.0474,0.0272,-0.0059,0.1008,0.0814,4.8585,-0.5902,10.6059,611,50,611,no other controls

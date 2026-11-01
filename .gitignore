@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large or refreshed raw downloads (the committed data/raw/*.csv files are small extracts)
+data/raw/*.zip
+data/raw/*.json
+
+# Secrets
+*.key
+*_key*.txt
+
+# OS
+.DS_Store

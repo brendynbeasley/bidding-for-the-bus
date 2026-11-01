@@ -1,0 +1,5 @@
+mode,agency_modes,contract_cheaper,median_gap_pct
+Bus,37,30,-25.45
+Commuter bus,1,1,-31.62
+Demand response,59,45,-35.00
+All,97,76,-27.14

@@ -1,0 +1,2 @@
+test,coef_log,se,ci_low,ci_high,p,gap_2015_log,n_obs,n_clusters
+"Change in contracted-vs-in-house gap per year, 2015-2025",-0.0003,0.0043,-0.0087,0.0081,0.9418,-0.2319,4676,289
